@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Digao+%F0%9F%91%8B;Estudante+de+ADS+na+PUC+Minas;Apaixonado+por+Desenvolvimento+Web" alt="Typing SVG" />
+# 👋 Rodrigo César
+
+### Estudante de ADS na PUC Minas • Apaixonado por Desenvolvimento Web
 
 </div>
 
@@ -73,5 +75,5 @@ Aplicação web informativa com foco em conscientização sobre **segurança dig
 ---
 
 <div align="center">
-<sub>Feito com 💙 por Rodrigo César (Digao)</sub>
+<sub>Feito com 💙 por Rodrigo César</sub>
 </div>
