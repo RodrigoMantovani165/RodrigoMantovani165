@@ -1,41 +1,12 @@
-<div align="center">
+# 💫 Sobre mim:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas (previsão de conclusão: 2028)<br>🔭 Em busca de oportunidades de estágio em T.I / Desenvolvimento de Software<br>💡 Curioso desde sempre sobre como os computadores funcionam por dentro<br>🌱 Estudando atualmente SQL/Banco de Dados, Algoritmos e Estruturas de Dados, BPMN e AWS Cloud<br>📍 Belo Horizonte, MG — Brasil
 
-# 👋 Rodrigo César
 
-### Estudante de ADS na PUC Minas • Apaixonado por Desenvolvimento Web
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/rodrigocesar165) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodrigomantovani100@gmail.com) 
 
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/rodrigocesar165"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:rodrigomantovani100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/RodrigoMantovani165"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
-<br>
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Minas** (previsão de conclusão: 2028)
-- 🔭 Em busca de oportunidades de **estágio em T.I / Desenvolvimento de Software**
-- 💡 Curioso desde sempre sobre como os computadores funcionam por dentro
-- 🌱 Estudando atualmente **SQL/Banco de Dados**, **Algoritmos e Estruturas de Dados**, **BPMN** e **AWS Cloud**
-- 📍 Belo Horizonte, MG — Brasil
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+# 💻 Tecnologias
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 🚀 Projeto em destaque
 
@@ -51,29 +22,13 @@ Aplicação web informativa com foco em conscientização sobre **segurança dig
 
 🔗 [Repositório](https://github.com/ICEI-PUCMinas-PSG-SI-TI/2016-1-tiaw-g4-safegrow) · [Aplicação ao vivo](https://safe-grow.netlify.app/)
 
-## 📊 Estatísticas do GitHub
+# 📊 Estatísticas do GitHub:
+![](https://github-readme-stats.shion.dev/api?username=RodrigoMantovani165&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RodrigoMantovani165&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RodrigoMantovani165&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RodrigoMantovani165&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMantovani165&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoMantovani165&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📫 Contato
-
-- 💼 [LinkedIn](https://linkedin.com/in/rodrigocesar165)
-- ✉️ rodrigomantovani100@gmail.com
-- 💻 [GitHub](https://github.com/RodrigoMantovani165)
 
 ---
+[![](https://komarev.com/ghpvc/?username=RodrigoMantovani165&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-<sub>Feito com 💙 por Rodrigo César</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
